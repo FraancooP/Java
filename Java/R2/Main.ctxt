@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=a\ pibote\ max
+comment1.target=int\ maximo(int[],\ int,\ int)
+comment2.params=a\ pibote\ min
+comment2.target=int\ minimo(int[],\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
