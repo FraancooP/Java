@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=n1\ n2
+comment1.target=float\ suma(float,\ float)
+comment2.params=n1\ n2
+comment2.target=float\ resta(float,\ float)
+comment3.params=n1\ n2
+comment3.target=float\ multiplicacion(float,\ float)
+comment4.params=n1\ n2
+comment4.target=float\ division(float,\ float)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
